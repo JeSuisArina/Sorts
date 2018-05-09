@@ -1,0 +1,6 @@
+c:\users\арина\documents\visual studio 2015\Projects\Algorithm1\Algorithm1\bin\Debug\Algorithm1.exe.config
+C:\Users\Арина\documents\visual studio 2015\Projects\Algorithm1\Algorithm1\bin\Debug\Algorithm1.exe
+C:\Users\Арина\documents\visual studio 2015\Projects\Algorithm1\Algorithm1\bin\Debug\Algorithm1.pdb
+C:\Users\Арина\documents\visual studio 2015\Projects\Algorithm1\Algorithm1\obj\Debug\Algorithm1.csprojResolveAssemblyReference.cache
+C:\Users\Арина\documents\visual studio 2015\Projects\Algorithm1\Algorithm1\obj\Debug\Algorithm1.exe
+C:\Users\Арина\documents\visual studio 2015\Projects\Algorithm1\Algorithm1\obj\Debug\Algorithm1.pdb
